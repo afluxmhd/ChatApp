@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595496421507",
+    "project_id": "chat-app-5e506",
+    "storage_bucket": "chat-app-5e506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595496421507:android:6c53a99600c715b18a73b6",
+        "android_client_info": {
+          "package_name": "co.afluxmhd.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595496421507-ctq294hji6qqfqvaivagfdpto6039kfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3I4UL-zF6bD2P1AhzPTPf0iRvccbJ8-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595496421507-ctq294hji6qqfqvaivagfdpto6039kfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
